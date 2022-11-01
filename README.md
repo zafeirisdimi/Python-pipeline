@@ -1,4 +1,4 @@
-# pipeline
+# 🐍Python Pipeline #
 [![Python Pipeline](https://github.com/zafeirisdimi/pipeline/actions/workflows/pipeline.yml/badge.svg)](https://github.com/zafeirisdimi/pipeline/actions/workflows/pipeline.yml)
 ## 🏴‍☠️Challenge ##
 
