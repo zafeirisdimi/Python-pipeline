@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/chekout@v2
       - run: python hello.py
-      
+
   build:
     needs: [test]
     runs-on: ubuntu-latest
