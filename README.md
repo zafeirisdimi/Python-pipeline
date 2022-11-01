@@ -1,6 +1,5 @@
 # pipeline
-Create a python pipeline
-
+[![Python Pipeline](https://github.com/zafeirisdimi/pipeline/actions/workflows/pipeline.yml/badge.svg)](https://github.com/zafeirisdimi/pipeline/actions/workflows/pipeline.yml)
 ## 🏴‍☠️Challenge ##
 
 ### Develop a CI/CD pipeline for a Python script ###
